@@ -1,3 +1,10 @@
+/*
+Author: John Zhou
+Course: CSCI13500
+Instructor: Prof. Zamansky
+Assignment: LAB 2 TASK D
+*/
+
 #include <iostream>
 
 int main()
